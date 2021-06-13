@@ -329,7 +329,7 @@ h1{
 
 .text3{
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://i.pinimg.com/originals/53/94/60/539460d70398c221306fa3b4c5653f16.jpg);
-margin: 0.5%;}
+}
 
 .features1 p {
   font-size: 60px;
@@ -353,7 +353,6 @@ margin: 0.5%;}
       min-width: 250px;
       font-size: 15px;
       background-color: white;
-      width: 100%;
       margin-bottom: 3%;
       }
       .shop h2{
@@ -362,8 +361,7 @@ margin: 0.5%;}
          .shop img{
           position:relative; 
           margin-top: 20px;
-          width: 100%;
-          }
+                  }
           .Box8{
             margin: auto;
             padding-left: 25px;
